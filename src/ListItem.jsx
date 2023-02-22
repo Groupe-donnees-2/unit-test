@@ -1,3 +1,5 @@
+import React from 'react';
+
 export function ListItem(props) {
     const {checkable, onCheck, id, item} = props;
 

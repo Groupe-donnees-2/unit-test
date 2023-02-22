@@ -1,3 +1,5 @@
+import React from 'react';
+
 export function Input(props) {
     const { onChange, onKeyUp } = props;
 
